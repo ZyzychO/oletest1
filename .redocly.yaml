@@ -1,8 +1,8 @@
 # See https://redocly.com/docs/cli/configuration/ for more information.
 apis:
-  sample@v1: 
+  saample@v1: 
     root: openapi/openapi.yaml
-  sample@v2: 
+  saample@v2: 
     root: openapi/openapiv2.yaml
 lint:
   extends:
