@@ -23,6 +23,7 @@ extensions](https://github.com/Redocly/Redoc/blob/master/docs/redoc-vendor-exten
 
 The goal of The OpenAPI Specification is to define a standard,
 language-agnostic interface to REST APIs which
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/dZmaxgiwzAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 allows both humans and computers to discover and understand the capabilities
 of the service without access to source
